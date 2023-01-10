@@ -1,0 +1,15 @@
+{"level":30,"time":"2022-10-26T20:29:40.375Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Listening on 51404"}
+{"level":30,"time":"2022-10-26T20:29:40.588Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.589Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.595Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.596Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.613Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.614Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.623Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.623Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.633Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.633Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.644Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.644Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-26T20:29:40.727Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-26T20:29:40.728Z","pid":18816,"hostname":"DESKTOP-V6AIUN7","msg":"End of node method closeAllBrowsers"}
